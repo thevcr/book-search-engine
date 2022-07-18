@@ -14,4 +14,4 @@ This is a Google Books API search engine that has been refactored to be a GraphQ
 * Apollo Server
 
 ## Website
-zen-brook-52392.herokuapp.com
+[zen-brook-52392.herokuapp.com](https://frozen-brook-52392.herokuapp.com/)
